@@ -3,4 +3,4 @@
 
 #aaaa
 
-[gif_test](image/mouse.gif)
+![gif_test](image/mouse.gif)
